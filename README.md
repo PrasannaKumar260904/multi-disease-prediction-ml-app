@@ -13,12 +13,14 @@ Built using `scikit-learn`, `Streamlit`, and `Python`, this app allows users to 
 Access the deployed app here:  
 👉 [multi-disease-ml-app-by-prasannakumarreddy.streamlit.app](https://multi-disease-prediction-ml-app-by-prasannakumarreddy.streamlit.app/)
 
-## 📋 Features
 
-- 🧮 Predict diseases using pre-trained `.pkl` models
-- 🔘 Sidebar navigation using `streamlit-option-menu`
-- ✅ Real-time results from user input
-- 💡 Simple and intuitive UI for non-technical users
+### ✨ Features
+- 🔍 Predict 3 diseases using trained ML models
+- 🌐 **Multi-language Support** – English, हिंदी, తెలుగు
+- ✅ Instant results based on user input
+- 🩺 **Preventive Measures & Lifestyle Tips** displayed in the selected language
+- 🎨 Clean, responsive UI using `streamlit-option-menu`
+
 
 ## 🛠️ Tech Stack
 
@@ -63,6 +65,22 @@ multi-disease-ml-app/
 │   └── parkinsons_model.sav
 └── README.md
 ```
+🌐 Languages Supported
+->English 🇬🇧
+
+->Hindi 🇮🇳
+
+->Telugu 🇮🇳
+
+🩺 Preventive Tips
+After each prediction, disease-specific tips are shown in the selected language:
+
+->Healthy Diet Suggestions
+
+->Exercise Guidance
+
+->Lifestyle Recommendations
+
 
 ## 🙋‍♂️ Author
 
