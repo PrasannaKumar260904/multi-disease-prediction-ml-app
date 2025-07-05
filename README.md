@@ -6,7 +6,7 @@ This is a **Streamlit-based web application** that uses **machine learning model
 - 🩸 Diabetes
 - 🧠 Parkinson’s Disease
 
-Built with `scikit-learn`, `Streamlit`, and `Python`, the app allows users to enter relevant medical information and receive instant predictions.
+Built using `scikit-learn`, `Streamlit`, and `Python`, this app allows users to enter medical data and instantly see predictions in **English, Hindi, or Telugu**.
 
 ## 🚀 Live Demo
 
